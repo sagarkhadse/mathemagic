@@ -1,1 +1,1 @@
-# mathemagic
+# MatheMagic
